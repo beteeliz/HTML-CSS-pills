@@ -1,2 +1,2 @@
 # html-pills
-Html coding example for learning purposes
+HTML coding example for learning purposes
